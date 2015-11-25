@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qml-ui">
+        <file>main.qml</file>
+    </qresource>
+</RCC>
